@@ -1,0 +1,7 @@
+echo "# izzamawy-pastry-shop_biraquit_siozon_rafael_fuentes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kashiruki/izzamawy-pastry-shop_biraquit_siozon_rafael_fuentes.git
+git push -u origin main
