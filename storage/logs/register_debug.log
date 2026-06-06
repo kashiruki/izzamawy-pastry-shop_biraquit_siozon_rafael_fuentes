@@ -1,0 +1,77 @@
+[2025-12-31 22:07:30] register_simple_action.php invoked
+[2025-12-31 22:09:23] register_simple_action.php invoked
+[2025-12-31 22:09:23] Request method is POST
+[2025-12-31 22:09:23] Validation failed: missing fields
+[2026-01-01 00:27:21] register_simple_action.php invoked
+[2026-01-01 00:27:21] Request method is POST
+[2026-01-01 00:27:21] Attempting DB connection
+[2026-01-01 00:27:21] DB connection established
+[2026-01-01 00:44:40] register_simple_action.php invoked
+[2026-01-01 00:44:40] Request method is POST
+[2026-01-01 00:44:40] Validation failed: missing fields
+[2026-01-01 01:10:02] register_simple_action.php invoked
+[2026-01-01 01:10:02] Request method is POST
+[2026-01-01 01:10:02] Validation failed: password too short
+[2026-01-01 01:13:52] register_simple_action.php invoked
+[2026-01-01 01:13:52] Request method is POST
+[2026-01-01 01:13:52] Validation failed: missing fields
+[2026-01-01 01:15:10] register_simple_action.php invoked
+[2026-01-01 01:15:10] Request method is POST
+[2026-01-01 01:15:10] Validation failed: missing fields
+[2026-01-01 01:35:08] register_simple_action.php invoked
+[2026-01-01 01:35:08] Request method is POST
+[2026-01-01 01:35:08] Validation failed: missing fields
+[2026-01-02 13:00:22] register_simple_action.php invoked
+[2026-01-02 13:00:22] Request method is POST
+[2026-01-02 13:00:22] Validation failed: invalid username: nivratiuqarib@gmail.com
+[2026-01-02 13:00:38] register_simple_action.php invoked
+[2026-01-02 13:00:38] Request method is POST
+[2026-01-02 13:00:38] Validation failed: invalid username: Arvin John Biraquit
+[2026-01-02 13:00:39] register_simple_action.php invoked
+[2026-01-02 13:00:39] Request method is POST
+[2026-01-02 13:00:39] Validation failed: invalid username: Arvin John Biraquit
+[2026-01-02 13:00:40] register_simple_action.php invoked
+[2026-01-02 13:00:40] Request method is POST
+[2026-01-02 13:00:40] Validation failed: invalid username: Arvin John Biraquit
+[2026-01-02 13:00:40] register_simple_action.php invoked
+[2026-01-02 13:00:40] Request method is POST
+[2026-01-02 13:00:40] Validation failed: invalid username: Arvin John Biraquit
+[2026-01-02 13:00:40] register_simple_action.php invoked
+[2026-01-02 13:00:40] Request method is POST
+[2026-01-02 13:00:40] Validation failed: invalid username: Arvin John Biraquit
+[2026-01-02 13:00:40] register_simple_action.php invoked
+[2026-01-02 13:00:40] Request method is POST
+[2026-01-02 13:00:40] Validation failed: invalid username: Arvin John Biraquit
+[2026-01-02 13:00:40] register_simple_action.php invoked
+[2026-01-02 13:00:40] Request method is POST
+[2026-01-02 13:00:40] Validation failed: invalid username: Arvin John Biraquit
+[2026-01-02 13:03:10] register_simple_action.php invoked
+[2026-01-02 13:03:10] Request method is POST
+[2026-01-02 13:03:10] Validation failed: invalid username: Arvin John Biraquit
+[2026-01-02 13:03:22] register_simple_action.php invoked
+[2026-01-02 13:03:22] Request method is POST
+[2026-01-02 13:03:22] Validation failed: invalid username: Arvin John Biraquit
+[2026-01-02 13:03:23] register_simple_action.php invoked
+[2026-01-02 13:03:23] Request method is POST
+[2026-01-02 13:03:23] Validation failed: invalid username: Arvin John Biraquit
+[2026-01-02 13:03:23] register_simple_action.php invoked
+[2026-01-02 13:03:23] Request method is POST
+[2026-01-02 13:03:23] Validation failed: invalid username: Arvin John Biraquit
+[2026-01-02 13:03:23] register_simple_action.php invoked
+[2026-01-02 13:03:23] Request method is POST
+[2026-01-02 13:03:23] Validation failed: invalid username: Arvin John Biraquit
+[2026-01-02 13:03:31] register_simple_action.php invoked
+[2026-01-02 13:03:31] Request method is POST
+[2026-01-02 13:03:31] Attempting DB connection
+[2026-01-02 13:03:31] DB connection established
+[2026-01-02 13:03:31] Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'izzamawy_pastry_shop.users' doesn't exist
+[2026-01-02 13:03:31] register_simple_action.php invoked
+[2026-01-02 13:03:31] Request method is POST
+[2026-01-02 13:03:31] Attempting DB connection
+[2026-01-02 13:03:31] DB connection established
+[2026-01-02 13:03:31] Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'izzamawy_pastry_shop.users' doesn't exist
+[2026-01-02 13:03:32] register_simple_action.php invoked
+[2026-01-02 13:03:32] Request method is POST
+[2026-01-02 13:03:32] Attempting DB connection
+[2026-01-02 13:03:32] DB connection established
+[2026-01-02 13:03:32] Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'izzamawy_pastry_shop.users' doesn't exist

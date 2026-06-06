@@ -1,0 +1,74 @@
+[2026-01-09 02:42:16] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-01-09 02:42:16] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-09 02:42:18] Test email failed for nivratiuqarib@gmail.com
+[2026-01-09 02:44:04] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-01-09 02:44:04] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-09 02:44:06] Test email failed for nivratiuqarib@gmail.com
+[2026-01-09 02:47:26] PHPMailer exception: SMTP Error: Could not authenticate.
+[2026-01-09 03:00:57] PHPMailer exception: SMTP Error: Could not authenticate.
+[2026-01-09 03:09:07] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-01-09 03:09:07] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-09 03:09:09] Failed to send order confirmation to nicolai@gmail.com for IPS-20260109-08906E
+[2026-01-09 03:10:55] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-01-09 03:10:55] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-09 03:10:57] Failed to send order confirmation to renalene@gmail.com for IPS-20260109-CF2CCA
+[2026-01-10 00:45:51] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-01-10 00:45:51] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-10 00:45:53] Failed to send order confirmation to nivratiuqarib@gmail.com for IPS-20260110-C36927
+[2026-01-10 10:19:57] PHPMailer error: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[2026-01-10 10:19:57] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-10 10:19:59] Failed to send order confirmation to batumbakal@gmail.com for IPS-20260110-D157B9
+[2026-01-10 14:08:11] PHPMailer error: Invalid address:  (to): woewfuweh@gfaekamf
+[2026-01-10 14:08:11] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-10 14:08:13] Failed to send order confirmation to woewfuweh@gfaekamf for IPS-20260110-BAF372
+[2026-01-10 15:00:13] PHPMailer error: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[2026-01-10 15:00:13] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-10 15:00:15] Failed to send order confirmation to anthony@gmail.com for IPS-20260110-CEC8F8
+[2026-01-10 15:11:01] PHPMailer error: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[2026-01-10 15:11:01] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-10 15:11:03] Failed to send order confirmation to nivratiuqarib@gmail.com for IPS-20260110-5BF125
+[2026-01-10 15:38:35] PHPMailer error: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[2026-01-10 15:38:35] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-10 15:38:37] Failed to send order confirmation to cyggyufuy@gmail.com for IPS-20260110-A3333F
+[2026-01-13 11:12:17] PHPMailer error: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[2026-01-13 11:12:17] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-13 11:12:19] Failed to send order confirmation to rod.ferros@gmail.com for IPS-20260113-0F37E3
+[2026-01-16 23:30:12] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-01-16 23:30:12] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-16 23:30:14] Failed to send order confirmation to nivratiuqarib@gmail.com for IPS-20260116-19D7DD
+[2026-01-16 23:31:30] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-01-16 23:31:30] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-16 23:31:32] Failed to send order confirmation to nivratiuqarib@gmail.com for IPS-20260116-00F90E
+[2026-01-16 23:35:20] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-01-16 23:35:21] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-16 23:35:23] Failed to send order confirmation to nivratiuqarib@gmail.com for IPS-20260116-690206
+[2026-01-17 01:24:43] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-01-17 01:24:43] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-17 01:24:45] Failed to send order confirmation to batumbakal@gmail.com for IPS-20260117-8AE979
+[2026-01-17 09:07:00] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-01-17 09:07:00] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-17 09:07:03] Failed to send order confirmation to nyco@gmail.com for IPS-20260117-1B0620
+[2026-01-17 13:11:23] PHPMailer error: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[2026-01-17 13:11:23] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-17 13:11:25] Failed to send order confirmation to hH@gmail.com for IPS-20260117-B59565
+[2026-01-17 13:42:28] PHPMailer error: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[2026-01-17 13:42:28] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-17 13:42:30] Failed to send order confirmation to nivratiuqarib@gmail.com for IPS-20260117-41A368
+[2026-01-19 20:27:54] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-01-19 20:27:54] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-19 20:27:56] Failed to send order confirmation to hannahmirjae@gmail.com for IPS-20260119-57F5FA
+[2026-01-20 09:25:09] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-01-20 09:25:09] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-01-20 09:25:11] Failed to send order confirmation to nivratiuqarib@gmail.com for IPS-20260120-2B4C71
+[2026-04-24 20:53:36] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-04-24 20:53:36] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-04-24 20:53:38] Failed to send order confirmation to uvgwruwfwoiofewfw@gmail.com for IPS-20260424-C4AA46
+[2026-05-22 19:32:13] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-05-22 19:32:13] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-05-22 19:32:16] Failed to send order confirmation to nivratiuqarib@gmail.com for IPS-20260522-B0F39D
+[2026-05-22 19:37:45] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-05-22 19:37:45] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-05-22 19:37:47] Failed to send order confirmation to nivratiuqarib@gmail.com for IPS-20260522-7650B2
+[2026-06-05 22:29:39] PHPMailer error: SMTP Error: Could not authenticate.
+[2026-06-05 22:29:39] SMTP credentials present but PHPMailer not available; run: composer require phpmailer/phpmailer
+[2026-06-05 22:29:41] Failed to send order confirmation to arvinjohn.biraquit@cvsu.edu.ph for IPS-20260605-F6F029

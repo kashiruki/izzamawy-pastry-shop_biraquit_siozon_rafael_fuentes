@@ -1,0 +1,51 @@
+[2026-05-21 18:49:14] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:15] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:16] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:17] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:18] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:18] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:19] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:19] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:20] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:21] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:22] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:23] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:23] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:24] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-21 18:49:32] Login error: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(46): PDOStatement->execute(Array)
+#1 {main}
+[2026-05-22 19:17:31] Login error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_verified' in 'field list'
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(126): PDO->prepare('SELECT id, firs...')
+#1 {main}
+[2026-05-28 23:21:35] Login error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_verified' in 'field list'
+#0 C:\xampp\htdocs\izzamawy-pastry-shop\login_simple_action.php(126): PDO->prepare('SELECT id, firs...')
+#1 {main}
