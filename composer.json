@@ -1,0 +1,9 @@
+{
+    "name": "izzamawy/pastry-shop",
+    "description": "Izzamawy Pastry and Delicacies web app",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
