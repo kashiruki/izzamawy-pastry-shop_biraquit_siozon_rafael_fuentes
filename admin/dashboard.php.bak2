@@ -1,0 +1,53 @@
+<?php
+/**
+ * Backup copy before redesigning dashboard to supplier-management style.
+ */
+require_once __DIR__ . '/../config/config.php';
+require_once __DIR__ . '/../config/database.php';
+
+// Check if logged in
+if (!is_admin_logged_in()) {
+    redirect('login.php');
+}
+
+$db = Database::getInstance()->getConnection();
+
+// Get statistics
+$stats = [];
+
+// Total products
+$stmt = $db->query("SELECT COUNT(*) as total FROM products WHERE is_active = 1");
+$stats['products'] = $stmt->fetch()['total'];
+
+// Total orders
+$stmt = $db->query("SELECT COUNT(*) as total FROM orders");
+$stats['orders'] = $stmt->fetch()['total'];
+
+// Pending orders
+$stmt = $db->query("SELECT COUNT(*) as total FROM orders WHERE order_status = 'pending'");
+$stats['pending_orders'] = $stmt->fetch()['total'];
+
+// Total revenue
+$stmt = $db->query("SELECT SUM(total) as revenue FROM orders WHERE payment_status != 'failed'");
+$stats['revenue'] = $stmt->fetch()['revenue'] ?? 0;
+
+// Recent orders
+$stmt = $db->query("SELECT * FROM orders ORDER BY created_at DESC LIMIT 10");
+$recent_orders = $stmt->fetchAll();
+
+// Low stock products
+$stmt = $db->query("SELECT * FROM products WHERE stock_quantity < 10 AND is_active = 1 ORDER BY stock_quantity ASC LIMIT 10");
+$low_stock = $stmt->fetchAll();
+
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Backup Dashboard - <?php echo SITE_NAME; ?></title>
+</head>
+<body>
+<p>Backup created before redesign. Restore from this file if needed.</p>
+</body>
+</html>
